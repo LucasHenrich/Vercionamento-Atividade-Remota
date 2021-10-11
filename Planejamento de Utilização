@@ -1,0 +1,17 @@
+A utilização do git init para adicionar a pasta uma "raiz git" utilização de um novo repertório.
+
+Segundo passo seria a utilização do git add para adicionar um arquivo salvo em repetório (git add . ) para adicionar todos os aqrquivos em pasta ou então a utilização de ( git add texto.txt). Com o nome do arquivo mais a ferramenta utilizada.
+
+Git clone é utilizado para disponibilizar um repertorio salvo em git hub para sua pasta lozal atrelando trabalho para duplas... 
+
+Git commit seria o salvamento para up ao site git commit –m “coloque sua mensagem aqui”.
+
+Git status para verificar as branch criadas em repetório.O comando git status exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
+
+O comando git checkout pode ser usado para criar ramos ou alternar entre eles. Por exemplo, o seguinte cria um novo ramo e muda para ele:
+
+git push é outro dos comandos git básicos mais usados. Um simples envio envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho.
+
+O comando git remote permite que um usuário se conecte a um repositório remoto. O comando a seguir lista os repositórios remotos atualmente configurados:
+
+git remote –v
