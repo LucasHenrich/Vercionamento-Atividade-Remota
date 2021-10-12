@@ -4,4 +4,7 @@ Usar clone https:
 Criar uma branch para trabalhar fora da mein.
 Git branch nome da nova etapa de trabalho.
 
-Git checkout para entrar na outra raiz criada.
+Git checkout para entrar na outra raiz criada.´
+
+
+Alteração no arquivo.
