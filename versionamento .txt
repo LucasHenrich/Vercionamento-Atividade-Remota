@@ -1,0 +1,7 @@
+Abrir git em área de trabalho e copiar do git hub.
+Usar clone https:
+
+Criar uma branch para trabalhar fora da mein.
+Git branch nome da nova etapa de trabalho.
+
+Git checkout para entrar na outra raiz criada.
