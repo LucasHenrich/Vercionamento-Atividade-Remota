@@ -1,0 +1,10 @@
+utilização de git fetch para verificar novos documentos no trabalho.
+
+git branch - a para verificar pastas novas e listar.
+
+git checkout para logar na nova raiz.
+
+
+criação da partição develop apartir da main.
+
+utilização de git merge " nome da branch que você quer trazer"
